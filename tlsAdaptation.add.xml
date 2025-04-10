@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-10 19:55:35.709617 by tlsCycleAdaptation.py v1_22_0+1410-6cdd9657096
+<configuration>
+    <net-file value="odense.net.xml"/>
+    <route-files value="odense.rou.xml"/>
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="3371561929" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="5" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="3371561934" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GGG"/>
+        <phase duration="4" state="yyy"/>
+        <phase duration="5" state="rrr"/>
+    </tlLogic>
+    <tlLogic id="6949942555" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942556" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942560" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942561" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942564" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942565" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="4" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="6949942566" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="6949942567" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777132" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777134" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777135" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="5" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777136" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777137" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GGG"/>
+        <phase duration="4" state="yyy"/>
+        <phase duration="5" state="rrr"/>
+    </tlLogic>
+    <tlLogic id="7230777138" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="4" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777143" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777144" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="3" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777145" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777146" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="4" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777148" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777149" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GGG"/>
+        <phase duration="4" state="yyy"/>
+        <phase duration="5" state="rrr"/>
+    </tlLogic>
+    <tlLogic id="7230777150" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="4" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777151" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="3" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777152" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777154" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777155" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="3" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777156" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="3" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777157" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="7230777158" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="G"/>
+        <phase duration="4" state="y"/>
+        <phase duration="5" state="r"/>
+    </tlLogic>
+    <tlLogic id="7230777159" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="cluster_256215981_8293132401_9460524035_9460524046" type="actuated" programID="a" offset="0">
+        <phase duration="8" state="rrrGGgGgg"/>
+        <phase duration="4" state="rrrGyyyyy"/>
+        <phase duration="4" state="GGgGrrrrr"/>
+        <phase duration="4" state="yyyGrrrrr"/>
+    </tlLogic>
+    <tlLogic id="cluster_6949942554_7230777133" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="4" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+    <tlLogic id="cluster_7230777147_7230777153" type="actuated" programID="a" offset="0">
+        <phase duration="16" state="GG"/>
+        <phase duration="3" state="yy"/>
+        <phase duration="5" state="rr"/>
+    </tlLogic>
+</additional>
